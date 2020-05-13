@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="leyou-item-inteface" />
+        <module name="user-service" />
+        <module name="leyou-upload1" />
+        <module name="leyou-auth-common" />
+        <module name="leyou-goods-web" />
+        <module name="leyou-upload" />
+        <module name="leyou-auth-service" />
+        <module name="leyou-gateway" />
+        <module name="leyou-ceshi" />
+        <module name="leyou-common" />
+        <module name="leyou-registry" />
+        <module name="leyou-cart" />
+        <module name="leyou-order" />
+        <module name="com.leyou.upload" />
+        <module name="leyou-search" />
+        <module name="item-server" />
+        <module name="item-interface" />
+        <module name="leyou-user-interface" />
+        <module name="leyou-sms" />
+        <module name="untitled" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.leyou.upload" target="1.8" />
+      <module name="itcast-rabbitmq" target="1.8" />
+      <module name="leyou-ceshi" target="1.8" />
+      <module name="leyou-item" target="1.8" />
+      <module name="leyou-item-inteface" target="1.8" />
+      <module name="leyou-upload" target="1.8" />
+      <module name="leyou-user-service" target="1.8" />
+      <module name="lizichen-elasticsearch" target="1.8" />
+      <module name="lzc-elaseticsearch" target="1.8" />
+      <module name="untitled" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.leyou.upload" options="-parameters" />
+      <module name="itcast-rabbitmq" options="-parameters" />
+      <module name="item-interface" options="-parameters" />
+      <module name="item-server" options="-parameters" />
+      <module name="leyou-auth-common" options="-parameters" />
+      <module name="leyou-auth-service" options="-parameters" />
+      <module name="leyou-cart" options="-parameters" />
+      <module name="leyou-ceshi" options="-parameters" />
+      <module name="leyou-common" options="-parameters" />
+      <module name="leyou-gateway" options="-parameters" />
+      <module name="leyou-goods-web" options="-parameters" />
+      <module name="leyou-item" options="-parameters" />
+      <module name="leyou-item-inteface" options="-parameters" />
+      <module name="leyou-order" options="-parameters" />
+      <module name="leyou-registry" options="-parameters" />
+      <module name="leyou-search" options="-parameters" />
+      <module name="leyou-sms" options="-parameters" />
+      <module name="leyou-upload" options="-parameters" />
+      <module name="leyou-upload1" options="-parameters" />
+      <module name="leyou-user" options="-parameters" />
+      <module name="leyou-user-interface" options="-parameters" />
+      <module name="leyou-user-service" options="-parameters" />
+      <module name="lizichen-elasticsearch" options="-parameters" />
+      <module name="lzc-elaseticsearch" options="-parameters" />
+      <module name="untitled" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

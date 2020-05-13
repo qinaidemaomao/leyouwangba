@@ -1,0 +1,8 @@
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
+GET http://localhost:8081/category/bid/{bid}
+
+###
+
